@@ -1,5 +1,5 @@
 # homework3
-
+[Blog](http://sysu.cf/?p=22)
 ## 游戏对象运动的本质
 
 - 游戏对象位置的改变
